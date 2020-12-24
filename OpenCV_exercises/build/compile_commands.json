@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/workspace/OpenCV_exercises/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/load_image_2.dir/src/load_image_2.cpp.o -c /home/workspace/OpenCV_exercises/src/load_image_2.cpp",
+  "file": "/home/workspace/OpenCV_exercises/src/load_image_2.cpp"
+},
+{
+  "directory": "/home/workspace/OpenCV_exercises/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/load_image_3.dir/src/load_image_3.cpp.o -c /home/workspace/OpenCV_exercises/src/load_image_3.cpp",
+  "file": "/home/workspace/OpenCV_exercises/src/load_image_3.cpp"
+},
+{
+  "directory": "/home/workspace/OpenCV_exercises/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/change_pixels.dir/src/change_pixels.cpp.o -c /home/workspace/OpenCV_exercises/src/change_pixels.cpp",
+  "file": "/home/workspace/OpenCV_exercises/src/change_pixels.cpp"
+},
+{
+  "directory": "/home/workspace/OpenCV_exercises/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/create_matrix.dir/src/create_matrix.cpp.o -c /home/workspace/OpenCV_exercises/src/create_matrix.cpp",
+  "file": "/home/workspace/OpenCV_exercises/src/create_matrix.cpp"
+},
+{
+  "directory": "/home/workspace/OpenCV_exercises/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/load_image_1.dir/src/load_image_1.cpp.o -c /home/workspace/OpenCV_exercises/src/load_image_1.cpp",
+  "file": "/home/workspace/OpenCV_exercises/src/load_image_1.cpp"
+}
+]
